@@ -7,7 +7,7 @@ The following is a description of the process of construction of a Decision Tree
 
 For the most part, this is a introductory and exploratory project into the practice of Data Mining.
 
-Review __2nd_Assignment.pdf__ for the full report of the project.
+Review __1stReport.pdf__ for the full report of the project. The __Test__ folder contains the KNIME files of the experiment.
 
 Best Regards,
 
