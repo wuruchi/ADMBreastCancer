@@ -9,6 +9,8 @@ For the most part, this is a introductory and exploratory project into the pract
 
 Review __1stReport.pdf__ for the full report of the project. The __Test__ folder contains the KNIME files of the experiment.
 
+Link to Data: http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)
+
 Best Regards,
 
 Wilmer
